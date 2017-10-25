@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+ï»¿<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 ===========================
-Minicurso Introdução ao GIT
+Minicurso Introduï¿½ï¿½o ao GIT
 ===========================
 =======
 <?php
@@ -12,3 +12,4 @@ echo "Hellow World!";
 Finalmente 
 >>>>>>> 86009275ca510e008609b9fd48fb124fd6c7aed9
 >>>>>>> 383321f8d71cca8d450781b71a8fff3567ea8d09
+Isso ai
