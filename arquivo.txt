@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+===========================
+Minicurso Introdução ao GIT
+===========================
+=======
 <?php
 echo "Hellow World!";
 ?>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Nulla porttitor accumsan tincidunt. Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
 
@@ -10,3 +18,8 @@ Vivamus suscipit tortor eget felis porttitor volutpat. Pellentesque in ipsum id 
 teste de alteração de arquivo
 =======
 >>>>>>> 86009275ca510e008609b9fd48fb124fd6c7aed9
+=======
+Finalmente 
+>>>>>>> 86009275ca510e008609b9fd48fb124fd6c7aed9
+>>>>>>> 383321f8d71cca8d450781b71a8fff3567ea8d09
+>>>>>>> 0e9bb8bfebedcd8163e245eeb800e999fdee8291
