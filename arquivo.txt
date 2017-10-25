@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 ===========================
 Minicurso Introdução ao GIT
 ===========================
+=======
+<?php
+echo "Hellow World!";
+?>
+
+>>>>>>> 86009275ca510e008609b9fd48fb124fd6c7aed9
