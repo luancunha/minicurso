@@ -1,53 +1,5 @@
 ﻿<<<<<<< HEAD
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 =======
 ﻿<<<<<<< HEAD
 =======
@@ -83,14 +35,7 @@ Isso ai
 addd
 =======
 
-
-
-
-
-
-
 SEI NEM MAIS QUE QUE EU TO FAZENDO ME AJUDA PF.
 >>>>>>> b5592b8dd8dea38c1721befdeca1930c6747fa6e
 
 TAMO JUNTO
-
