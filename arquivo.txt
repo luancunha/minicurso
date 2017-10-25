@@ -8,3 +8,10 @@ Koé Rapaziada
 Koé Rapaziadaaaa
 Koeeeeeeeé Rapaziadaaaaaa
 Koeeeeeeeeeeeeeeeeeeeeeeé Rapaziadaaaaaaaaaaaaaa
+=======
+echo "Hellow World!";
+
+Koé Rapaziada
+Koé Rapaziadaaaa
+Koeeeeeeeé Rapaziadaaaaaa
+Koeeeeeeeeeeeeeeeeeeeeeeé Rapaziadaaaaaaaaaaaaaa
